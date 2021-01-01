@@ -1,9 +1,9 @@
 {
   "official_website_url": "https://openretailer.net/",
   "premium_support_url": "https://openretailer.net/upgrade/",
-  "or_premium_service_url": "http://api.coding4ever.net:5011/",  
-  "base_url_ws": "ws://api.coding4ever.net:7000",
-  "base_url_api": "http://api.coding4ever.net:7000/",
   "support_email": "support@openretailer.net",
   "support_wa": "+62 852-1117-9007"
+  "base_url_activation_api": "http://api.coding4ever.net:5011/",  
+  "base_url_ws": "ws://api.coding4ever.net:7000",
+  "base_url_api": "http://api.coding4ever.net:7000/"  
 }
